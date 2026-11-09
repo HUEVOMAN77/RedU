@@ -196,8 +196,9 @@ hasta que lo reporte.
 - **Abre un issue con la plantilla de [_Informe de compatibilidad_](https://github.com/HUEVOMAN77/RedU/issues/new/choose)**
   para decirnos tu modelo, tu versión de Android, tu GPU, si el juego funciona, qué tan bien funciona
   (una calificación del 1 al 5) y cuántos cuadros por segundo obtienes. Son dos minutos.
-- **Discusiones → Reseñas** es para escribir una reseña completa, pedir un teléfono o compartir un
-  consejo.
+- **Discusiones → Show and tell** es para escribir una reseña completa, pedir un teléfono o compartir
+  un consejo. Una reseña que diga "en mi teléfono funciona", con el modelo, es lo más útil que
+  puedes dejar.
 - **Los errores** tienen su propia plantilla; adjunta el log que la app ofrece para compartir
   (mantén presionado el ícono, o _Compartir log_ en la pantalla de preparación).
 

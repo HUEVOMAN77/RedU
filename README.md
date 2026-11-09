@@ -185,7 +185,8 @@ RedU is tuned for the hardware it was tested on, and every other phone is a gues
 - **Open an issue with the [_Device compatibility report_](https://github.com/HUEVOMAN77/RedU/issues/new/choose)
   template** to tell us your model, your Android version, your GPU, whether the game runs, how well
   it runs (a rating from 1 to 5) and how many frames per second you get. It takes two minutes.
-- **Discussions → Reviews** is where to write a full review, ask for a phone or share a tip.
+- **Discussions → Show and tell** is where to write a full review, ask for a phone or share a tip.
+  A review that says "it works on my phone", with the model, is the most useful thing you can leave.
 - **Bugs** have their own template; attach the log that the app offers to share (long-press the
   icon, or *Share log* in the setup screen).
 
