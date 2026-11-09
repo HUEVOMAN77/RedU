@@ -47,8 +47,10 @@ Créditos completos: [CREDITS.md](CREDITS.md).
 Descárgalo de la [página de versiones](https://github.com/HUEVOMAN77/RedU/releases). Cada versión
 incluye además un `SHA256SUMS.txt` para comprobar que la descarga llegó intacta.
 
-El código fuente del port está en [HUEVOMAN77/nsmbu-recomp](https://github.com/HUEVOMAN77/nsmbu-recomp)
-(rama `android`). Este repositorio es el punto de distribución y el registro de compatibilidad.
+El código fuente del port es privado (es un fork propio de
+[nsmbu-recomp](https://github.com/nsmbu-recomp/nsmbu-recomp), en la rama `android`). Si lo quieres
+para compilarlo o estudiarlo, pídelo en las discusiones. Este repositorio es el punto de
+distribución y el registro de compatibilidad.
 
 ## Requisitos
 

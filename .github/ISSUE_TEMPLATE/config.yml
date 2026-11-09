@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Código fuente y desarrollo
-    url: https://github.com/HUEVOMAN77/nsmbu-recomp
-    about: El código del port vive en el fork de nsmbu-recomp; ahí van los arreglos de compilación.
   - name: Reseñas y preguntas
     url: https://github.com/HUEVOMAN77/RedU/discussions
     about: Escribe una reseña completa, pide un teléfono o comparte un consejo.
