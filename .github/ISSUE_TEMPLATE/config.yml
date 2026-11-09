@@ -1,14 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Código fuente y desarrollo / Source code and development
+  - name: Código fuente y desarrollo
     url: https://github.com/HUEVOMAN77/nsmbu-recomp
     about: El código del port vive en el fork de nsmbu-recomp; ahí van los arreglos de compilación.
-      The port source lives in the nsmbu-recomp fork; build fixes go there.
-  - name: Reseñas y preguntas / Reviews and questions
+  - name: Reseñas y preguntas
     url: https://github.com/HUEVOMAN77/RedU/discussions
     about: Escribe una reseña completa, pide un teléfono o comparte un consejo.
-      Write a full review, ask for a phone or share a tip.
-  - name: Versiones / Releases
+  - name: Versiones
     url: https://github.com/HUEVOMAN77/RedU/releases
     about: Descarga el APK y los SHA-256 de cada versión.
-      Download the APK and the SHA-256 sums of every release.
