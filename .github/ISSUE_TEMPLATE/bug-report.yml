@@ -1,0 +1,74 @@
+name: Reporte de error / Bug report
+description: Algo no funciona: la app se cierra, el juego se cae, la preparación falla.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cuéntanos qué pasó y adjunta el log: sin el log es mucho más difícil reproducirlo.
+
+        Tell us what happened and attach the log.
+
+        **Nunca adjuntes archivos del juego, claves ni imágenes copyrighted del juego.**
+
+  - type: dropdown
+    id: version
+    attributes:
+      label: Versión de RedU / RedU version
+      options:
+        - "1.0.5"
+        - "1.0.3"
+        - "1.0.2"
+        - "1.0.1"
+        - "1.0.0"
+        - "Otra / Another"
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Teléfono / Phone
+      placeholder: HUAWEI NCO-LX3 (Nova 10), Android 12
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: ¿Qué pasó? / What happened?
+      description: Qué esperabas y qué pasó en realidad.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Cómo reproducirlo / Steps to reproduce
+      placeholder: |
+        1. Abro la app
+        2. Elijo la carpeta del juego
+        3. La preparación se queda en 30 %
+    validations:
+      required: false
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Log / Log
+      description: |-
+        Mantén presionado el ícono y elige *Compartir log*, o el botón *Compartir log* de la
+        pantalla de preparación, y pega el texto aquí.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Reglas / Rules
+      options:
+        - label: |-
+            No he adjuntado archivos del juego, claves ni datos de Nintendo.
+            I have not attached game files, keys or Nintendo data.
+          required: true
